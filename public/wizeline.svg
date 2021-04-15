@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="main-menu__logo main-menu__logo--color-black-red" viewBox="0 0 105 24" width="150"  height="34" >
+              <g>
+                <path class="wize-color" d="M11.899 24H8.74L7.418 10.775 5.912 24H2.791L0 0h3.672l1.175 15.135L6.28 0h2.828l1.212 15.135L11.715 0h3.415zM19.826 24h3.652V0h-3.652zM33.428 20.468h4.435V24h-8.646v-1.261l4.659-19.207h-4.398V0h8.609v1.262zM43.304 24V0h7.826v3.46h-4.094v6.558h2.717v3.28h-2.717v7.135h4.094V24z" fill="#262E30"></path>
+                <path class="line-color" d="M57.391 24V0h2.54v21.514h4.765V24zM70.957 24h2.608V0h-2.608zM88.39 24L84.4 11.856 83.27 8v16h-2.4V0h2.294l3.637 12.324 1.06 3.892V0h2.4v24zM97.043 24V0h7.827v2.415H99.7v8h3.729v2.342H99.7v8.829h5.169V24z" fill="#E93D44"></path>
+              </g>
+            </svg>
